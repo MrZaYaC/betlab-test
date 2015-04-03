@@ -7,7 +7,7 @@
   * @description
   * Render a table with data from github api
   *  @param {string=} [source='https://api.github.com/users/substack/repos'] Api url to get data
-  *  @param {Array=} [rows=['id', 'name', 'private', 'html_url', 'owner', 'description']] Array of fields that be rendered
+  *  @param {Array=} [rows=['id', 'name', 'private', 'html_url', 'owner', 'description']] Array of fields that will be rendered
   *  @param {Array=} [filter=false] Filter rows by {fieldName:fieldValue}
   *  @param {Function=} [myRender=function(field, repo)] Function that render the value of field
   */
