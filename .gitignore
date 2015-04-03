@@ -1,0 +1,12 @@
+.idea*
+.DS_Store
+.coffee
+Thumbs.db
+public/css/style.css
+public/js/app.js
+public/*.html
+public/view/*.html
+bower_components
+node_modules
+src/angular/config.js
+src/jade/include/base.jade
